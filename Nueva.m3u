@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:1, tvg-id="1" tvg-logo="https://lh3.googleusercontent.com/proxy/u2KYuKpomSohOpAXWtn3nCPbsM2Ch2pTxsylHjOVdzjXs7RTevZvRwo2QXfpV3vCxcW_XkcRGIEcz4pBvjsONaThiQFNQHSPM0QfI9Buf7Vm0kwf_dPf" tvg-name="AZ CLICK"  group-title="MX",AZ CLICK
+#EXTINF:-1, tvg-id="1" tvg-logo="https://lh3.googleusercontent.com/proxy/u2KYuKpomSohOpAXWtn3nCPbsM2Ch2pTxsylHjOVdzjXs7RTevZvRwo2QXfpV3vCxcW_XkcRGIEcz4pBvjsONaThiQFNQHSPM0QfI9Buf7Vm0kwf_dPf" tvg-name="AZ CLICK"  group-title="MX",AZ CLICK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=11&format=HLSAD&f=.m3u8
-#EXTINF:2, tvg-id="2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" tvg-name="AZ CORAZON"  group-title="MX",AZ CORAZON
+#EXTINF:-1, tvg-id="2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" tvg-name="AZ CORAZON"  group-title="MX",AZ CORAZON
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=70&format=HLSAD&f=.m3u8
-#EXTINF:3, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1920px-TV_Azteca_Mundo_logo.svg.png" tvg-name="AZ MUNDO"  group-title="MX",AZ MUNDO
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1920px-TV_Azteca_Mundo_logo.svg.png" tvg-name="AZ MUNDO"  group-title="MX",AZ MUNDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=84&format=HLSAD&f=.m3u8
-#EXTINF:4, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-name="IMAGEN TV"  group-title="MX",IMAGEN TV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-name="IMAGEN TV"  group-title="MX",IMAGEN TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2298&format=HLSAD&f=.m3u8
-#EXTINF:5, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" tvg-name="LAS ESTRELLAS"  group-title="MX",LAS ESTRELLAS
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" tvg-name="LAS ESTRELLAS"  group-title="MX",LAS ESTRELLAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=17&format=HLSAD&f=.m3u8
-#EXTINF:100, tvg-id="PRMTPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/1200px-Paramount_Plus.svg.png" tvg-name="Paramount Plus"  group-title="USA",Paramount Plus
+#EXTINF:-1, tvg-id="PRMTPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/1200px-Paramount_Plus.svg.png" tvg-name="Paramount Plus"  group-title="USA",Paramount Plus
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=19.3834&deviceLon=-99.1783&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=VE&serverSideAds=true&sessionID=057efa69-802d-11eb-b224-0242ac110002&sid=057efa69-802d-11eb-b224-0242ac110002&userId=
